@@ -1,7 +1,7 @@
 ### Hi there, I'm Andy Chen. 👋
 
 ### Programming Languages
-Python, HTML/CSS, JavaScript, C++
+Python, HTML/CSS, JavaScript, C++, C#
 ### Frameworks
 React.js, Material UI, Boostrap
 ### Game Engines
