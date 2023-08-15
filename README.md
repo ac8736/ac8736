@@ -3,7 +3,7 @@
 ### Programming Languages
 Python, HTML/CSS, JavaScript, C++, C#
 ### Frameworks
-React.js, Material UI, Boostrap
+React.js, Material UI, Boostrap, Angular, Express.js, ASP.NET, Serverless
 ### Game Engines
 Unity
 <div>
