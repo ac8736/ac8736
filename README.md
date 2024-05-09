@@ -1,9 +1,9 @@
 ### Hi there, I'm Andy Chen. 👋
 
 ### Programming Languages
-Python, HTML/CSS, JavaScript, C++, C#
+Python, HTML/CSS, JavaScript, C++, C#, Java
 ### Frameworks
-React.js, Material UI, Boostrap, Angular, Express.js, ASP.NET, Serverless
+React.js, Material UI, Boostrap, Angular, Express.js, ASP.NET, Serverless, Spring Boot
 ### Game Engines
 Unity, Unreal, GameMaker
 <div>
